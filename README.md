@@ -1,4 +1,4 @@
-# Collaborative Exchange Best Practices-
+# Collaborative Exchange Best Practices
 **Overview**
 
 The Scalable Data Use (ScDU) working group was established in May 2024 as a collaborative effort across state lines. The purpose of this group was to determine best practices for sharing resources through the CEDS open-source collaborative exchange. Our aim was to standardize resource-sharing across organizations, allowing contributors to leverage existing tools and reduce redundant work.
