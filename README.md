@@ -17,7 +17,7 @@ The ScDU group developed the following:
 
 **UAT Templates**: Both sample and blank templates for UAT processes, allowing organizations to streamline their testing efforts before submitting resources to the exchange.
 
-**ScDU Best Practices Checklist**: A checklist designed to assist contributors in following all necessary steps and guidelines, ensuring compliance with the ScDU standards.
+**ScDU Best Practices Checklist**: A checklist designed to assist contributors in following all necessary steps and guidelines, ensuring compliance with the reporting standards developed by states. 
 
 **Impact**
 
