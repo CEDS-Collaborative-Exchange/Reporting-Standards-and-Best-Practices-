@@ -7,6 +7,6 @@ The reporting standards and best practices are designed to standardize the shari
 
 **UAT Templates**: Sample and blank templates to streamline the UAT process, helping contributors efficiently test resources before submission.
 
-**Architecture Best Practices**: **Coming November 2024**Standards and best practices for documenting decisions and solutions related to key architectural aspects, including semantic models, security schemas, naming conventions, data structures, and roles. 
+**Architecture Best Practices**: ****Coming November 2024**__** Standards and best practices for documenting decisions and solutions related to key architectural aspects, including semantic models, security schemas, naming conventions, data structures, and roles. 
 
 **Best Practices Checklist**: A step-by-step checklist ensuring contributors follow necessary procedures and comply with the reporting standards developed by states.
