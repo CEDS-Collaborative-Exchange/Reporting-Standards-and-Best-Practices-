@@ -1,5 +1,5 @@
 # Reporting Standards and Best Practices
-The reporting best practices are designed to standardize the sharing of resources across state lines. By following the best practices for documentation, user acceptance testing (UAT), and architecture, contributors can leverage existing tools and reduce redundant work. These standards ensure that resources added to the exchange come with clear documentation, allowing other organizations to efficiently integrate dashboards, reports, and other assets into their systems.
+The reporting standards and best practices are designed to standardize the sharing of resources across state lines. By following the best practices for documentation, user acceptance testing (UAT), and architecture, contributors can leverage existing tools and reduce redundant work. These standards ensure that resources added to the exchange come with clear documentation, allowing other organizations to efficiently integrate dashboards, reports, and other assets into their systems.
 
 Documentation Best Practices: Detailed guidelines for the required documentation when adding resources to the exchange, ensuring clarity and usability.
 
