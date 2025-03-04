@@ -1,0 +1,5 @@
+# Standard Abbreviations for CEDS fields
+
+In 2024-2025, Michigan's Center for Educational Performance and Information (CEPI) began preparing to use the CEDS Data Warehouse for reporting, and it became clear that some CEDS field names would be too long to work with some software packages.  CEPI then created a standardized dictionary of how to convert CEDS fieldnames that were too long into shorter ones -- thereby allowing the conversion  to be automated.  In the spirit of the Open Source Community, CEPI has shared that dictionary here so that other states and organizations could also use it as needed.  The dictionary has been shared as both an Excel workbook and as a json file. 
+
+Note: This dictionary should be considered living documentation -- where suggestions are welcome and changes will be necessary as the needs of the OSC continue to evolve.
